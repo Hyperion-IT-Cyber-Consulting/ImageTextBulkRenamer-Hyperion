@@ -27,7 +27,7 @@ This tool is designed to bulk rename image files based on the text extracted fro
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ImageTextBulkRenamer.git
+   git clone https://github.com/Hyperion-IT-Cyber-Consulting/ImageTextBulkRenamer.git
    ```
 
 2. Navigate to the cloned directory:
