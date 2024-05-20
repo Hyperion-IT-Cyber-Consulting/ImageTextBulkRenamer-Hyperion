@@ -39,7 +39,7 @@ This tool is designed to bulk rename image files based on the text extracted fro
 3. Run the script:
 
    ```bash
-   python bulk_renamer.py
+   python imagerenamer.py
    ```
 
 4. The GUI will open. Follow the on-screen instructions to select a directory, choose whether to use GPU for processing, and start the renaming process.
