@@ -47,3 +47,9 @@ This tool is designed to bulk rename image files based on the text extracted fro
 ## Note
 
 - Supported image formats for text extraction: PNG, JPG, JPEG, TIFF, BMP, GIF.
+
+### License
+    This uses the GPL 3.0 License, which can be viewed in the repo
+
+### Author
+    Eugene C. Data Science Consultant
